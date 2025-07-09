@@ -1,0 +1,41 @@
+10
+100
+Admin
+admin123
+2
+101
+Dr. Smith
+faculty123
+1
+102
+Dr. Johnson
+faculty123
+1
+103
+Dr. Williams
+faculty123
+1
+201
+John Doe
+student123
+0
+202
+Jane Smith
+student123
+0
+203
+Mike Johnson
+student123
+0
+204
+Sarah Williams
+student123
+0
+205
+Tom Brown
+student123
+0
+220
+ayush
+ayush
+0

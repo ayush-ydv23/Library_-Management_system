@@ -1,0 +1,61 @@
+10
+1
+Introduction to C++
+Bjarne Stroustrup
+Addison-Wesley
+2012
+1 0
+10
+C++ Templates
+David Vandevoorde
+Addison-Wesley
+2002
+1 0
+2
+Clean Code
+Robert C. Martin
+Prentice Hall
+2008
+0 0
+3
+Design Patterns
+Erich Gamma
+Addison-Wesley
+1994
+0 0
+4
+The Pragmatic Programmer
+Andrew Hunt
+Addison-Wesley
+1999
+0 0
+5
+Effective C++
+Scott Meyers
+Addison-Wesley
+2005
+0 0
+6
+Modern C++ Design
+Andrei Alexandrescu
+Addison-Wesley
+2001
+0 0
+7
+C++ Primer
+Stanley Lippman
+Addison-Wesley
+2012
+1 0
+8
+Effective Modern C++
+Scott Meyers
+O'Reilly
+2014
+1 0
+9
+C++ Concurrency in Action
+Anthony Williams
+Manning
+2012
+1 0
